@@ -1,4 +1,4 @@
-######vivliostyleフォルダ、表示するepubファイルの順でパスを指定するとepubファイルをVivliostyleで起動する。Mac専用。######
+######vivliostyleフォルダ、表示するepubファイルの順でパスを指定するとepubファイルをVivliostyleで展開する。Mac専用。######
 use utf8;
 #Encodeモジュールをインポート
 use Encode qw/encode decode/;
